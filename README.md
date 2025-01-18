@@ -10,6 +10,8 @@ Latitudinal Bands: Examining temperature variations across different latitudes i
 Interactive Dashboard: Built using Shiny, shinydashboard, and other packages to create an engaging user interface.
 Weatherbit API: Retrieves live weather data including temperature, pressure, and humidity.
 Data Preprocessing: Cleaned and processed data for seamless visualization.
+
+
 📦 Libraries Used
 This project makes use of the following R libraries:
 
