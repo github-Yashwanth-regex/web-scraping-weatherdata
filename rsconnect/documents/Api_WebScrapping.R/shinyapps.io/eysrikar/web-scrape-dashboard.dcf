@@ -1,0 +1,13 @@
+name: web-scrape-dashboard
+title: web-scrape-dashboard
+username: eysrikar
+account: eysrikar
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13752154
+bundleId: 9665986
+url: https://eysrikar.shinyapps.io/web-scrape-dashboard/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: Final_Presentation_Weather.r
